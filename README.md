@@ -6,4 +6,4 @@
 ██████╔╝██║░░██║██████╦╝╚█████╔╝██║░░██║  ███████╗██╔╝╚██╗██║░░░░░██║░░██║███████╗██████╔╝██████╔╝
 ╚═════╝░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝  ╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═════╝░╚═════╝░ 
 
-## Projeto simples criado com o intúito de estudar os conceitos básicos (iniciais) da linguagem Python, simulando um sistema backend de cadastro, listagem e ativação de restaurantes.
+### Projeto simples criado com o intúito de estudar os conceitos básicos (iniciais) da linguagem Python, simulando um sistema backend de cadastro, listagem e ativação de restaurantes.
